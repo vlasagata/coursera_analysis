@@ -1,5 +1,4 @@
 # Coursera Course Dataset project
-Module 4 – Sprint 3
 
 In this project, I’m analyzing a dataset of 890 Coursera courses using Python (mainly pandas, NumPy) and visualizing insights with Matplotlib, Seaborn, and Plotly. The work was done using Jupyter Notebook and Google Colab.
 
